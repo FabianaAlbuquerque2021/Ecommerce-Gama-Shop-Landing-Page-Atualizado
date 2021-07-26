@@ -1,4 +1,4 @@
-# Ecommerce Gama Shop Landing Page Atualizado
+# Ecommerce Gama Shop Landing Page Atualizado :white_check_mark:
 Projeto de desenvolvimento de uma landing page de Ecommerce para cadastro de produtos e clientes que utilizam a plataforma Gama Shop. :pager:
 
 Funcionalidades: :bookmark_tabs:
